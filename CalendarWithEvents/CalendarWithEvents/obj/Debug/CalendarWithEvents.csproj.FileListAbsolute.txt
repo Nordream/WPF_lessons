@@ -1,1 +1,0 @@
-D:\Inbox\KE\WPF\CalendarWithEvents\CalendarWithEvents\bin\Debug\CalendarWithEvents.exe.config
